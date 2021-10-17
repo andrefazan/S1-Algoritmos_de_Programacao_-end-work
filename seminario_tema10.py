@@ -1,4 +1,12 @@
 
+
+
+# i code this with a friend in the first semester of college.
+
+# you can access the repository where we worked here: https://github.com/luisgustavocarmelo/trabalho-ap1s1
+
+ 
+ 
 Opcoes_do_Menu_Principal = ['Alunos', 'Cursos', 'Matrículas', 'Relatórios', 'SAIR']
 Opcoes_do_Submenu = ['Listar todos', 'Listar um', 'Incluir novo registro', 'Alterar', 'Excluir']
 
